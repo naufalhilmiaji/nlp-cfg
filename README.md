@@ -1,5 +1,4 @@
 # Context-Free Grammar
-Naufal Hilmiaji - 1301174314
 
 ### Prerequisites
 
@@ -14,4 +13,8 @@ Python 3.6+
 * [nlp-cfg.ipynb](https://github.com/naufalhilmiaji/nlp-cfg/blob/master/nlp-cfg.ipynb)
 
 
-# Please consider to use wisely. Enjoy!
+### Author
+#### _Naufal Hilmiaji_
+* [Linkedin](https://www.linkedin.com/in/naufalhilmiaji/)
+* [Facebook](https://www.facebook.com/naufal.hilmiaji)
+* [Github](https://github.com/naufalhilmiaji)
